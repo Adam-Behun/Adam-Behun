@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**Adam-Behun/Adam-Behun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+## Introduction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Introduce yourself and give a brief overview of your background and interests.
+
+## Professional experience
+
+- Summarize your professional experience, including your current job or role, your past work experience, and your skills and expertise.
+
+## Education
+
+- List your education, including the schools you attended, the degrees you earned, and any relevant coursework or certifications.
+
+## Projects
+
+- List your projects, either personal or professional, that you have worked on and are proud of. Include a brief description of each project and a link to the project's repository or website.
+
+## Interests
+
+- List your interests, hobbies, and other activities outside of work that you are passionate about.
+
+## Contact information
+
+- Provide a way for others to contact you, such as your email address or social media profiles.
