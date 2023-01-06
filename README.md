@@ -1,28 +1,21 @@
 # Hi there 👋
 
+## Learning right now (January 2023)
+
+1. https://github.com/DataTalksClub/data-engineering-zoomcamp
+2. https://leetcode.com/explore/featured/card/sql-language/
+3. https://www.wallstreetprep.com/self-study-programs/excel-crash-course/
+
 ## About Me
-
-
-# About Me
 
 ## Introduction
 
-
 ## Professional experience
-
 
 ## Education
 
-- List your education, including the schools you attended, the degrees you earned, and any relevant coursework or certifications.
-
 ## Projects
-
-- List your projects, either personal or professional, that you have worked on and are proud of. Include a brief description of each project and a link to the project's repository or website.
 
 ## Interests
 
-- List your interests, hobbies, and other activities outside of work that you are passionate about.
-
 ## Contact information
-
-- Provide a way for others to contact you, such as your email address or social media profiles.
