@@ -25,18 +25,29 @@ Graduating in May of 2024, I am a senior student of Business Analytics and Compu
 - [Finding Key Variables to Predict House Prices](https://github.com/Adam-Behun/supervised-machine-learning/blob/main/house-price-competition/algorithms/top-solution.ipynb)
 - [Using Principal Component Analysis and Supervised ML to Recognize Hand-Written Digits](https://github.com/Adam-Behun/supervised-machine-learning/blob/main/mnist-competition/algorithms/pca_with_models.ipynb)
 
-## [SQL Preparation](https://github.com/Adam-Behun/sql-preparation)
-<p>
-Learnings from <a href="https://josephmachado.gumroad.com/l/analyticalsql">Efficient Data Processing in SQL</a> as well as solutions to HackerRank challenges.
-</p> 
-
-Each link leads to a SQL file within the `sql-queries` directory that demonstrates how to use that specific type of join.
-
-- [INNER JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/inner-join.sql)
-- [LEFT JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/left-join.sql)
-- [RIGHT JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/right-join.sql)
-- [FULL OUTER JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/full-outer-join.sql)
-- [CROSS JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/cross-join.sql)
+<table>
+  <tr>
+    <td>
+      <h2><a href="https://github.com/Adam-Behun/sql-preparation">SQL Preparation</a></h2>
+      <p>
+        Learnings from <a href="https://josephmachado.gumroad.com/l/analyticalsql">Efficient Data Processing in SQL</a> as well as solutions to HackerRank challenges.
+      </p>
+      <p>Each link leads to a SQL file within the <code>sql-queries</code> directory that demonstrates how to use that specific type of join.</p>
+      <ul>
+        <li><a href="https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/inner-join.sql">INNER JOIN</a></li>
+        <li><a href="https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/left-join.sql">LEFT JOIN</a></li>
+        <li><a href="https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/right-join.sql">RIGHT JOIN</a></li>
+        <li><a href="https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/full-outer-join.sql">FULL OUTER JOIN</a></li>
+        <li><a href="https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/cross-join.sql">CROSS JOIN</a></li>
+      </ul>
+    </td>
+    <td>
+      <a href="https://github.com/Adam-Behun/sql-preparation">
+        <img src="https://github.com/Adam-Behun/sql-preparation/blob/master/visuals/sql-joins.jpg" alt="SQL Joins" width="250"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 
 <p align="center">
