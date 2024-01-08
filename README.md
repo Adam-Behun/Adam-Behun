@@ -20,10 +20,19 @@ From basic data structures to advanced algorithms, this repository contains my i
 ![Supervised ML Visual](visuals/supervised-ml-visual.png)
 In this repository, I explore various supervised learning techniques, applying them to real-world datasets and Kaggle competition problems.
 
-## Kaggle Competitions
+## Achievements
+- links to badges
 
-- Titanic: Machine Learning from Disaster
+## Data Science links to notebooks
 - House Prices: Advanced Regression Techniques
 - MNIST Digit Recognizer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Behun)](https://github.com/Adam-Behun/github-readme-stats)
+## Data Engineering
+- link to 
+
+
+## Data Visualization in Looker
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Behun&layout=compact)](https://github.com/Adam-Behun/github-readme-stats)
