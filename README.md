@@ -21,11 +21,11 @@ Learnings from <a href="https://josephmachado.gumroad.com/l/analyticalsql">Effic
 
 Each link leads to a SQL file within the `sql-queries` directory that demonstrates how to use that specific type of join.
 
-- [INNER JOIN](./sql-queries/inner-join.sql)
-- [LEFT JOIN](./sql-queries/left-join.sql)
-- [RIGHT JOIN](./sql-queries/right-join.sql)
-- [FULL OUTER JOIN](./sql-queries/full-outer-join.sql)
-- [CROSS JOIN](./sql-queries/cross-join.sql)
+- [INNER JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/inner-join.sql)
+- [LEFT JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/left-join.sql)
+- [RIGHT JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/right-join.sql)
+- [FULL OUTER JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/full-outer-join.sql)
+- [CROSS JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/cross-join.sql)
 
 ## 
 <p align="center">
