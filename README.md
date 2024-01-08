@@ -2,9 +2,7 @@
 
 Graduating in May of 2024, I am a senior student of Business Analytics and Computer Science. The below are some of my data analysis projects. 
 
-## [Using Supervised ML to Predict Tipping Patterns](https://github.com/Adam-Behun/supervised-ml-to-predict-tips)
-
-Analyzed over 55 million rides to predict tipping patterns in New York City's taxi service. 
+## [Analyzed over 55 million rides to predict tipping patterns in New York City's taxi service](https://github.com/Adam-Behun/supervised-ml-to-predict-tips)
 #### Key findings:
 - **Zone Hotspots**: Recognizing areas with high demand to enhance taxi availability and reduce passenger wait times.
 - **Yearly Trends**: Making monthly comparisons to illustrate the impact of external events on service usage.
