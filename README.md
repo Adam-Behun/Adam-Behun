@@ -6,10 +6,10 @@ Below are my key projects (Both on Healthcare - Provider Side), Prior Authorizat
 **[GitHub Repository](https://github.com/Adam-Behun/alfons)**  
 A voice-enabled bot for automating prior authorization in healthcare (not yet viewable online, expected completion July 2025). Built with:
 - **FastAPI**: High-performance, async backend for handling Twilio webhooks.
-- **Twilio**: Manages calls to `+18666105909` with escalation to `+15165667132`.
+- **Twilio**: Manages calls to `sample_number` with escalation to `sample_number`.
 - **ElevenLabs**: Realistic text-to-speech and speech-to-text for human-like interactions.
 - **xAI’s Grok 3**: Conversational AI for processing and responding to user queries.
-- **Supabase**: Real-time database logging, viewable at `http://localhost:3000`.
+- **Supabase**: Real-time database logging
 - **Next.js**: Frontend for displaying authorization logs.
 
 **Impact**: Streamlines insurance approvals, reduces manual work for PPM and ASC staff, and ensures HIPAA-compliant mock data for testing.
