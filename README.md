@@ -1,10 +1,10 @@
 # Adam Behun - Software in Healthcare | Deliver Outcomes, Not Tools
 
-Below are my key projects (Both on Healthcare - Provider Side), Prior Authorization LLM Agent & Dental Kiosk, followed by my data analysis work.
+Below are my key projects (Both on Healthcare - Provider Side), Prior Authorization LLM Agent & Dental Kiosk, followed by my data analysis work. Alfons and Dental Kiosk are not yet viewable online but are expected to be completed by July 2025.
 
 ## Alfons - Prior Authorization Bot
 **[GitHub Repository](https://github.com/Adam-Behun/alfons)**  
-A voice-enabled bot for automating prior authorization in healthcare. Built with:
+A voice-enabled bot for automating prior authorization in healthcare (not yet viewable online, expected completion July 2025). Built with:
 - **FastAPI**: High-performance, async backend for handling Twilio webhooks.
 - **Twilio**: Manages calls to `+18666105909` with escalation to `+15165667132`.
 - **ElevenLabs**: Realistic text-to-speech and speech-to-text for human-like interactions.
@@ -16,7 +16,7 @@ A voice-enabled bot for automating prior authorization in healthcare. Built with
 
 ## Dental Kiosk
 **[GitHub Repository](https://github.com/Adam-Behun/dental-kiosk)**  
-A patient-facing kiosk for dental practices (DSO settings) to manage appointments and payments. Features:
+A patient-facing kiosk for dental practices (DSO settings) to manage appointments and payments (not yet viewable online, expected completion July 2025). Features:
 - **Docker**: Containerized deployment for consistent backend/frontend setup.
 - **Stripe**: Secure payment processing with webhook integration.
 - **Next.js**: Responsive frontend for patient interaction.
@@ -39,6 +39,12 @@ A patient-facing kiosk for dental practices (DSO settings) to manage appointment
 ## SQL Preparation
 **[GitHub Repository](https://github.com/Adam-Behun/sql-preparation)**  
 Learnings from [Efficient Data Processing in SQL](https://josephmachado.gumroad.com/l/analyticalsql) and solutions to HackerRank challenges.  
+Each link demonstrates a specific SQL join type:
+- [INNER JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/inner-join.sql)
+- [LEFT JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/left-join.sql)
+- [RIGHT JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/right-join.sql)
+- [FULL OUTER JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/full-outer-join.sql)
+- [CROSS JOIN](https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/cross-join.sql)
 
 <p align="center">
   <a href="https://github.com/Adam-Behun/github-readme-stats">
