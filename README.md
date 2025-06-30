@@ -1,55 +1,45 @@
-# Adam Behun - Data Analysis Portfolio
+# Adam Behun - Software in Healthcare | Deliver Outcomes, Not Tools
 
-Graduating in May of 2024, I am a senior student of Business Analytics and Computer Science. The below are some of my data analysis projects. 
+Below are my key projects (Both on Healthcare - Provider Side), Prior Authorization LLM Agent & Dental Kiosk, followed by my data analysis work.
 
-<table>
-  <tr>
-    <td>
-      <h2><a href="https://github.com/Adam-Behun/supervised-ml-to-predict-tips">Analyzed over 55 million rides to predict tipping patterns in New York City's taxi service</a></h2>
-      <p><strong>Key findings:</strong></p>
-      <ul>
-        <li><strong>Zone Hotspots</strong>: Recognizing areas with high demand to enhance taxi availability and reduce passenger wait times.</li>
-        <li><strong>Yearly Trends</strong>: Making monthly comparisons to illustrate the impact of external events on service usage.</li>
-        <li><strong>Daily Traffic Volumes</strong>: Identifying peak hours to recommend optimal driver schedules and fleet management.</li>
-      </ul>
-    </td>
-    <td>
-      <a href="https://github.com/Adam-Behun/supervised-ml-to-predict-tips">
-        <img src="https://github.com/Adam-Behun/supervised-ml-to-predict-tips/blob/main/taxi.jpg" alt="Taxi Data Visualization" width="250"/>
-      </a>
-    </td>
-  </tr>
-</table>
+## Alfons - Prior Authorization Bot
+**[GitHub Repository](https://github.com/Adam-Behun/alfons)**  
+A voice-enabled bot for automating prior authorization in healthcare. Built with:
+- **FastAPI**: High-performance, async backend for handling Twilio webhooks.
+- **Twilio**: Manages calls to `+18666105909` with escalation to `+15165667132`.
+- **ElevenLabs**: Realistic text-to-speech and speech-to-text for human-like interactions.
+- **xAI’s Grok 3**: Conversational AI for processing and responding to user queries.
+- **Supabase**: Real-time database logging, viewable at `http://localhost:3000`.
+- **Next.js**: Frontend for displaying authorization logs.
 
-## [Other Analyses and Supervised Machine Leaning Notebooks](https://github.com/Adam-Behun/supervised-machine-learning)
+**Impact**: Streamlines insurance approvals, reduces manual work for PPM and ASC staff, and ensures HIPAA-compliant mock data for testing.
+
+## Dental Kiosk
+**[GitHub Repository](https://github.com/Adam-Behun/dental-kiosk)**  
+A patient-facing kiosk for dental practices (DSO settings) to manage appointments and payments. Features:
+- **Docker**: Containerized deployment for consistent backend/frontend setup.
+- **Stripe**: Secure payment processing with webhook integration.
+- **Next.js**: Responsive frontend for patient interaction.
+- **PostgreSQL**: Stores appointment and payment data.
+
+**Impact**: Simplifies patient check-ins, reduces front-desk workload, and enhances payment workflows in dental practices.
+
+## Analyzed 55 million rides to predict tipping patterns in New York City's taxi service
+**[GitHub Repository](https://github.com/Adam-Behun/supervised-ml-to-predict-tips)**  
+**Key findings:**
+- **Zone Hotspots**: Recognizing areas with high demand to enhance taxi availability and reduce passenger wait times.
+- **Yearly Trends**: Making monthly comparisons to illustrate the impact of external events on service usage.
+- **Daily Traffic Volumes**: Identifying peak hours to recommend optimal driver schedules and fleet management.
+
+## Other Analyses and Supervised Machine Learning Notebooks
+**[GitHub Repository](https://github.com/Adam-Behun/supervised-machine-learning)**
 - [Finding Key Variables to Predict House Prices](https://github.com/Adam-Behun/supervised-machine-learning/blob/main/house-price-competition/algorithms/top-solution.ipynb)
 - [Using Principal Component Analysis and Supervised ML to Recognize Hand-Written Digits](https://github.com/Adam-Behun/supervised-machine-learning/blob/main/mnist-competition/algorithms/pca_with_models.ipynb)
 
-<table>
-  <tr>
-    <td>
-      <h2><a href="https://github.com/Adam-Behun/sql-preparation">SQL Preparation</a></h2>
-      <p>
-        Learnings from <a href="https://josephmachado.gumroad.com/l/analyticalsql">Efficient Data Processing in SQL</a> as well as solutions to HackerRank challenges.
-      </p>
-      <p>Each link leads to a SQL file within the <code>sql-queries</code> directory that demonstrates how to use that specific type of join.</p>
-      <ul>
-        <li><a href="https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/inner-join.sql">INNER JOIN</a></li>
-        <li><a href="https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/left-join.sql">LEFT JOIN</a></li>
-        <li><a href="https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/right-join.sql">RIGHT JOIN</a></li>
-        <li><a href="https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/full-outer-join.sql">FULL OUTER JOIN</a></li>
-        <li><a href="https://github.com/Adam-Behun/sql-preparation/blob/master/analytical-data-processing-sql/sql-queries/cross-join.sql">CROSS JOIN</a></li>
-      </ul>
-    </td>
-    <td>
-      <a href="https://github.com/Adam-Behun/sql-preparation">
-        <img src="https://github.com/Adam-Behun/sql-preparation/blob/master/visuals/sql-joins.jpg" alt="SQL Joins" width="250"/>
-      </a>
-    </td>
-  </tr>
-</table>
+## SQL Preparation
+**[GitHub Repository](https://github.com/Adam-Behun/sql-preparation)**  
+Learnings from [Efficient Data Processing in SQL](https://josephmachado.gumroad.com/l/analyticalsql) and solutions to HackerRank challenges.  
 
-## 
 <p align="center">
   <a href="https://github.com/Adam-Behun/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Behun" alt="Top Langs">
