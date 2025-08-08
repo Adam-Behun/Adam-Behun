@@ -11,17 +11,20 @@
 - **LiveKit**: WebRTC data transport
 - **Pipecat**: Voice application open source orchestration
 
-**Future Enhancements**: Navigating complex cases, 1+hr conversations
+**Future Enhancements**: Navigating complex cases, 1+hr conversations, DB inputs
 
-## **[Dental Clinic Check-in KIOSK](https://github.com/Adam-Behun/DentalKiosk)**
-### Collect accurate co-payments, Simplify patient check-ins, Track in-clinic wait times
-#### Technical Details
-- **Docker**: Containerized deployment for consistent backend/frontend setup.
-- **Stripe**: Secure payment processing with webhook integration.
-- **Next.js**: Responsive frontend for patient interaction.
-- **PostgreSQL**: Stores appointment and payment data.
+# 🦷 Dental Kiosk - Digital Check-in Solution
 
-**Future Enhancements**: EDI Integration to Clearinghouse adding patient's deductible & showing accurate patient balance before the appointment.
+**Live Demo**: https://frontend-production-6e9f.up.railway.app/  
+**Source Code**: https://github.com/Adam-Behun/DentalKiosk
+
+## 📋 What is Dental Kiosk?
+**Dental Kiosk solutions:**
+- ✅ **Instant self-check-in** - Patients check in themselves in under 2 minutes
+- ✅ **Price transparency** - See exact costs before treatment
+- ✅ **Secure payments** - Pay co-payments instantly via Stripe
+- ✅ **Reduced staff workload** - Automates routine check-in tasks
+- ✅ **Better patient satisfaction** - Modern, efficient experience
 
 ## Example Tableau Report
 <div style="width: 80%; margin: 0 auto; border: 1px solid #ccc;">
