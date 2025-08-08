@@ -1,5 +1,4 @@
-# Adam Behun
-# Software for clinic's administrative tasks
+# Adam Behun | Software for clinic's administrative tasks
 
 ## **[Prior Authorization AI Voice Agent](https://github.com/Adam-Behun/MyRobot)**  
 ### Provider's Prior Authorizations on Auto-Pilot
