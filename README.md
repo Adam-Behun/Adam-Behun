@@ -1,20 +1,22 @@
 # Adam Behun - Software in Healthcare | Deliver Outcomes, Not Tools
 
-Below are my key projects (Both on Healthcare - Provider Side), Prior Authorization LLM Agent & Dental Kiosk, followed by my data analysis work.
+Below are my key projects (Both on Healthcare - Provider Side), Prior Authorization LLM Agent & Dental Kiosk, followed by my data analysis work. Alfons and Dental Kiosk are not yet viewable online but are expected to be completed by July 2025.
 
-## **[Prior Authorization AI Voice Agent](https://github.com/Adam-Behun/MyRobot)**
-A voice-enabled bot for automating prior authorization in healthcare. Built with:
+## Alfons - Prior Authorization Bot
+**[GitHub Repository](https://github.com/Adam-Behun/alfons)**  
+A voice-enabled bot for automating prior authorization in healthcare (not yet viewable online, expected completion July 2025). Built with:
 - **FastAPI**: High-performance, async backend for handling Twilio webhooks.
-- **Twilio**: Manages calls to `+18666105909` with escalation to `+15165667132`.
+- **Twilio**: Manages calls to `sample_number` with escalation to `sample_number`.
 - **ElevenLabs**: Realistic text-to-speech and speech-to-text for human-like interactions.
 - **xAI’s Grok 3**: Conversational AI for processing and responding to user queries.
-- **Supabase**: Real-time database logging, viewable at `http://localhost:3000`.
+- **Supabase**: Real-time database logging
 - **Next.js**: Frontend for displaying authorization logs.
 
 **Impact**: Streamlines insurance approvals, reduces manual work for PPM and ASC staff, and ensures HIPAA-compliant mock data for testing.
 
-## **[Dental Kiosk](https://github.com/Adam-Behun/DentalKiosk)**  
-A patient-facing kiosk for dental practices (DSO settings) to manage appointments and payments. Features:
+## Dental Kiosk
+**[GitHub Repository](https://github.com/Adam-Behun/dental-kiosk)**  
+A patient-facing kiosk for dental practices (DSO settings) to manage appointments and payments (not yet viewable online, expected completion July 2025). Features:
 - **Docker**: Containerized deployment for consistent backend/frontend setup.
 - **Stripe**: Secure payment processing with webhook integration.
 - **Next.js**: Responsive frontend for patient interaction.
