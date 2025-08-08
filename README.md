@@ -1,17 +1,16 @@
 # Adam Behun | Software for clinic's administrative tasks
 
-## **[Prior Authorization AI Voice Agent](https://github.com/Adam-Behun/MyRobot)**  
-### Navigate IVR, Speak with insurance representative, Verify patients' eligibility, Update EHR, Store all conversation transcripts
-#### Technical Details
-- **OpenAI**: Large Language Model
-- **ElevenLabs**: Text-to-speech
-- **Deepgram**: Speech-to-text
-- **MongoDB**: Mock database
-- **FastAPI**: Async backend
-- **LiveKit**: WebRTC data transport
-- **Pipecat**: Voice application open source orchestration
+# Prior Authorization AI Voice Agent
 
-**Future Enhancements**: Navigating complex cases, 1+hr conversations, DB inputs
+**Source Code**: https://github.com/Adam-Behun/MyRobot
+
+- ✅ **OpenAI**: Large Language Model
+- ✅ **ElevenLabs**: Text-to-speech
+- ✅ **Deepgram**: Speech-to-text
+- ✅ **MongoDB**: Mock database
+- ✅ **FastAPI**: Async backend
+- ✅ **LiveKit**: WebRTC data transport
+- ✅ **Pipecat**: Voice application open source orchestration
 
 # Dental Kiosk - Digital Check-in Solution
 
@@ -24,7 +23,7 @@
 - ✅ **Reduced staff workload** - Automates routine check-in tasks
 - ✅ **Better patient satisfaction** - Modern, efficient experience
 
-## Example Tableau Report
+# Example Tableau Report
 <div style="width: 80%; margin: 0 auto; border: 1px solid #ccc;">
   <a href="images/Example Tableau Report.pdf">
     <img src="images/animated.gif" alt="PDF Preview" style="width: 100%;">
