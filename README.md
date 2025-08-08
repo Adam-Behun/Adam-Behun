@@ -25,7 +25,7 @@
 
 ## Example Tableau Report
 <div style="width: 80%; margin: 0 auto; border: 1px solid #ccc;">
-  <a href="images/Example Analysis.pdf">
+  <a href="images/Example Tableau Report.pdf">
     <img src="images/animated.gif" alt="PDF Preview" style="width: 100%;">
   </a>
 </div>
