@@ -1,31 +1,36 @@
-# Adam Behun - Software in Healthcare | Deliver Outcomes, Not Tools
+# Adam Behun
+# Software for clinic's administrative tasks
 
-Below are my key projects (Both on Healthcare - Provider Side), Prior Authorization LLM Agent & Dental Kiosk, followed by my data analysis work. Alfons and Dental Kiosk are not yet viewable online but are expected to be completed by July 2025.
+Below are my key projects (Both on Healthcare - Provider Side), Prior Authorization Voice AI Agent & Patient Check-In Kiosk. 
 
-## Alfons - Prior Authorization Bot
-**[GitHub Repository](https://github.com/Adam-Behun/alfons)**  
-A voice-enabled bot for automating prior authorization in healthcare (not yet viewable online, expected completion July 2025). Built with:
-- **FastAPI**: High-performance, async backend for handling Twilio webhooks.
-- **Twilio**: Manages calls to `sample_number` with escalation to `sample_number`.
-- **ElevenLabs**: Realistic text-to-speech and speech-to-text for human-like interactions.
-- **xAI’s Grok 3**: Conversational AI for processing and responding to user queries.
-- **Supabase**: Real-time database logging
-- **Next.js**: Frontend for displaying authorization logs.
+## **[Prior Authorization AI Voice Agent](https://github.com/Adam-Behun/MyRobot)**  
+Provider's Prior Authorizations on Auto-Pilot
+### Technical Details
+- **OpenAI**: Large Language Model
+- **ElevenLabs**: Text-to-speech
+- **Deepgram**: Speech-to-text
+- **MongoDB**: Mock database
+- **FastAPI**: Async backend
+- **LiveKit**: WebRTC data transport
+- **Pipecat**: Voice application open source orchestration
 
-**Impact**: Streamlines insurance approvals, reduces manual work for PPM and ASC staff, and ensures HIPAA-compliant mock data for testing.
+**Future Enhancements**: Handling IVR, navigating complex cases
 
-## Dental Kiosk
-**[GitHub Repository](https://github.com/Adam-Behun/dental-kiosk)**  
-A patient-facing kiosk for dental practices (DSO settings) to manage appointments and payments (not yet viewable online, expected completion July 2025). Features:
+## **[Patient Check-in KIOSK](https://github.com/Adam-Behun/DentalKiosk)**
+Collect accurate co-payments, Simplify patient check-ins, Track wait times
+### Technical Details
 - **Docker**: Containerized deployment for consistent backend/frontend setup.
 - **Stripe**: Secure payment processing with webhook integration.
 - **Next.js**: Responsive frontend for patient interaction.
 - **PostgreSQL**: Stores appointment and payment data.
 
-**Impact**: Simplifies patient check-ins, reduces front-desk workload, and enhances payment workflows in dental practices.
+**Future Enhancements**: EDI Integration to Clearinghouse adding patient's deductible & showing accurate patient balance before the appointment.
 
 ## Data Analysis Repos
-**[NYC Taxi Rides Analysis](https://github.com/Adam-Behun/supervised-ml-to-predict-tips)**  
+**[NYC Taxi Rides Analysis](https://github.com/Adam-Behun/supervised-ml-to-predict-tips)**
+
 **[House Price ML Competition](https://github.com/Adam-Behun/supervised-machine-learning/blob/main/house-price-competition/algorithms/top-solution.ipynb)**
+
 **[Principal Component Analysis to Recognize Hand-Written Digits](https://github.com/Adam-Behun/supervised-machine-learning/blob/main/mnist-competition/algorithms/pca_with_models.ipynb)**
+
 **[SQL Preparation](https://github.com/Adam-Behun/sql-preparation)**
