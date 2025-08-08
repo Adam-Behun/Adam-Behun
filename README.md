@@ -32,11 +32,9 @@
 
 **[SQL Preparation](https://github.com/Adam-Behun/sql-preparation)**
 
+## Example Tableau Report
 <div style="text-align: center;">
-  <div style="overflow-y: auto; height: 400px; border: 1px solid #ccc; margin: 0 auto; width: 80%;">
-    <img src="images/page-0.jpg" alt="Page 1" style="width: 100%; display: block; margin: 0;">
-    <img src="images/page-1.jpg" alt="Page 2" style="width: 100%; display: block; margin: 0;">
-    <img src="images/page-2.jpg" alt="Page 3" style="width: 100%; display: block; margin: 0;">
-    <img src="images/page-3.jpg" alt="Page 4" style="width: 100%; display: block; margin: 0;">
-  </div>
+  <a href="images/Example Analysis.pdf">
+    <img src="images/animated.gif" alt="PDF Preview" style="width: 80%; border: 1px solid #ccc;">
+  </a>
 </div>
