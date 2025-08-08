@@ -13,13 +13,11 @@
 
 **Future Enhancements**: Navigating complex cases, 1+hr conversations, DB inputs
 
-# 🦷 Dental Kiosk - Digital Check-in Solution
+# Dental Kiosk - Digital Check-in Solution
 
 **Live Demo**: https://frontend-production-6e9f.up.railway.app/  
 **Source Code**: https://github.com/Adam-Behun/DentalKiosk
 
-## 📋 What is Dental Kiosk?
-**Dental Kiosk solutions:**
 - ✅ **Instant self-check-in** - Patients check in themselves in under 2 minutes
 - ✅ **Price transparency** - See exact costs before treatment
 - ✅ **Secure payments** - Pay co-payments instantly via Stripe
