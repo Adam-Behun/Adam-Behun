@@ -1,7 +1,7 @@
 # Adam Behun | Software for clinic's administrative tasks
 
 ## **[Prior Authorization AI Voice Agent](https://github.com/Adam-Behun/MyRobot)**  
-### Provider's Prior Authorizations on Auto-Pilot
+### Navigate IVR, Speak with insurance representative, Verify patients' eligibility, Update EHR, Store all conversation transcripts
 #### Technical Details
 - **OpenAI**: Large Language Model
 - **ElevenLabs**: Text-to-speech
@@ -14,7 +14,7 @@
 **Future Enhancements**: Handling IVR, navigating complex cases
 
 ## **[Patient Check-in KIOSK](https://github.com/Adam-Behun/DentalKiosk)**
-### Collect accurate co-payments, Simplify patient check-ins, Track wait times
+### Collect accurate co-payments, Simplify patient check-ins, Track in-clinic wait times
 #### Technical Details
 - **Docker**: Containerized deployment for consistent backend/frontend setup.
 - **Stripe**: Secure payment processing with webhook integration.
