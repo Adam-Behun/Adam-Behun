@@ -31,3 +31,12 @@
 **[Principal Component Analysis to Recognize Hand-Written Digits](https://github.com/Adam-Behun/supervised-machine-learning/blob/main/mnist-competition/algorithms/pca_with_models.ipynb)**
 
 **[SQL Preparation](https://github.com/Adam-Behun/sql-preparation)**
+
+<div style="text-align: center;">
+  <div style="overflow-y: auto; height: 600px; border: 1px solid #ccc; margin: 0 auto; width: 80%;">
+    <img src="images/page-0.jpg" alt="Page 1" style="width: 100%;">
+    <img src="images/page-1.jpg" alt="Page 2" style="width: 100%;">
+    <img src="images/page-2.jpg" alt="Page 3" style="width: 100%;">
+    <img src="images/page-3.jpg" alt="Page 4" style="width: 100%;">
+  </div>
+</div>
