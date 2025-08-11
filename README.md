@@ -2,6 +2,7 @@
 
 # Prior Authorization AI Voice Agent
 
+**Live Demo**: https://prior-authorization-voice-agent-divine-shape-1935.fly.dev/
 **Source Code**: https://github.com/Adam-Behun/MyRobot
 
 - ✅ **OpenAI**: Large Language Model
@@ -14,7 +15,7 @@
 
 # Dental Kiosk - Digital Check-in Solution
 
-**Live Demo**: https://frontend-production-6e9f.up.railway.app/  
+**Live Demo**: https://frontend-production-6e9f.up.railway.app/
 **Source Code**: https://github.com/Adam-Behun/DentalKiosk
 
 - ✅ **Instant self-check-in** - Patients check in themselves in under 2 minutes
