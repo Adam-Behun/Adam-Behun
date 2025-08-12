@@ -33,8 +33,7 @@
   </a>
 </div>
 
-## Other Data Analysis Repos
-- [NYC Taxi Rides Analysis](https://github.com/Adam-Behun/supervised-ml-to-predict-tips)
-- [House Price ML Competition](https://github.com/Adam-Behun/supervised-machine-learning/blob/main/house-price-competition/algorithms/top-solution.ipynb)
-- [Principal Component Analysis to Recognize Hand-Written Digits](https://github.com/Adam-Behun/supervised-machine-learning/blob/main/mnist-competition/algorithms/pca_with_models.ipynb)
+## Other Data Work
+- [Airflow, Spark, GCP - Predicting Tipping Patterns with NYC Taxi Rides Dataset](https://github.com/Adam-Behun/supervised-ml-to-predict-tips)
+- [dbt Certification](https://github.com/Adam-Behun/dbt-training)
 - [SQL Preparation](https://github.com/Adam-Behun/sql-preparation)
