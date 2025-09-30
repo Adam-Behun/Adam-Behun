@@ -2,7 +2,7 @@
 
 # Prior Authorization AI Voice Agent
 
-**Live Demo**: https://prior-authorization-voice-agent-divine-shape-1935.fly.dev/
+**Live Demo**: https://prior-auth-agent-v2.fly.dev/
 
 **Source Code**: https://github.com/Adam-Behun/MyRobot
 
