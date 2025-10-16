@@ -2,10 +2,6 @@
 
 # Prior Authorization AI Voice Agent
 
-**Live Demo**: https://prior-auth-agent-v2.fly.dev/
-
-**Source Code**: https://github.com/Adam-Behun/MyRobot
-
 - ✅ **OpenAI**: Large Language Model
 - ✅ **ElevenLabs**: Text-to-speech
 - ✅ **Deepgram**: Speech-to-text
