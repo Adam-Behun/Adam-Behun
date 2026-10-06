@@ -8,7 +8,7 @@ Outside work, I build healthcare AI to learn the parts I don't touch every day.
 
 ## Projects
 
-- **[Crosswalk](https://github.com/Adam-Behun/crosswalk)**: reads a patient's FHIR records, simulates next year's care on every health plan, and recommends the one that costs least without breaking their care.
+- **[Crosswalk](https://github.com/Adam-Behun/Crosswalk)**: reads a patient's FHIR records, simulates next year's care on every health plan, and recommends the one that costs least without breaking their care.
 - **[OptimalBot](https://github.com/Adam-Behun/optimalbot)**: voice AI that calls payers and clinics for eligibility checks and scheduling, navigates phone trees, and is tested with scenario-based evals.
 - **[DentalKiosk](https://github.com/Adam-Behun/DentalKiosk)**: patient self-check-in for dental offices with cost estimates before treatment and Stripe co-pay collection.
 
